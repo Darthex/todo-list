@@ -10,7 +10,8 @@
 }
 
 .all--body {
-  background-color: antiquewhite;
+/*   background-color: antiquewhite; */
+  background-image: url("../public/vecteezyBackground-Luxury_Beige-Backgroundpg0821_generated.jpg");
   min-height: 100vh;
   padding-left: 15px;
   padding-right: 15px;
